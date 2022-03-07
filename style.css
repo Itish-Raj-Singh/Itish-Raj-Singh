@@ -1,0 +1,22 @@
+body{
+    background-color:lime;
+}
+h1{
+    font-family: 'Festive', cursive;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+}
+p{
+    font-family: 'Supermercado One', cursive;
+    font-weight: bolder;
+    text-align: right;
+    font-size: 20px;
+}
+#school_teachers{
+    font-weight: bold;
+    font-style: italic;
+}
+header{
+    font-size: 60px;
+}
